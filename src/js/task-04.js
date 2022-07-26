@@ -12,6 +12,6 @@ decrementBtn.addEventListener('click', () => {
 incrementBtn.addEventListener('click', () => {
     counterValue += 1;
     console.log(counterValue);
-     text.textContent = counterValue;
-})
+    text.textContent = counterValue;
+});
 
